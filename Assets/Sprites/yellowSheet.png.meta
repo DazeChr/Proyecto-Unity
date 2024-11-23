@@ -1,0 +1,413 @@
+fileFormatVersion: 2
+guid: 980bcf90c984fb94ea8ffb95a3449b53
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7243649487625021806
+    second: yellowSheet_0
+  - first:
+      213: -490028260445366377
+    second: yellowSheet_1
+  - first:
+      213: 150196690131873270
+    second: yellowSheet_2
+  - first:
+      213: 1859611673344062578
+    second: yellowSheet_3
+  - first:
+      213: 3280252619827059866
+    second: yellowSheet_4
+  - first:
+      213: 6557487740082002516
+    second: yellowSheet_5
+  - first:
+      213: -2484354613748493560
+    second: yellowSheet_6
+  - first:
+      213: -3823573057561919213
+    second: yellowSheet_7
+  - first:
+      213: -6860048622407422685
+    second: yellowSheet_8
+  - first:
+      213: 883055899965536054
+    second: yellowSheet_9
+  - first:
+      213: 4975995532571085640
+    second: yellowSheet_10
+  - first:
+      213: 3233094067881341122
+    second: yellowSheet_11
+  - first:
+      213: 6051209906302289837
+    second: yellowSheet_12
+  - first:
+      213: -8184569724989755973
+    second: yellowSheet_13
+  - first:
+      213: -8181436612931292179
+    second: yellowSheet_14
+  - first:
+      213: -7418315251889631348
+    second: yellowSheet_15
+  - first:
+      213: 6451612894526560837
+    second: yellowSheet_16
+  - first:
+      213: -1081098748458285314
+    second: yellowSheet_17
+  - first:
+      213: 4253014380721275885
+    second: yellowSheet_18
+  - first:
+      213: 8556585756028779062
+    second: yellowSheet_19
+  - first:
+      213: 611904922824550422
+    second: yellowSheet_20
+  - first:
+      213: -3975195179202911117
+    second: yellowSheet_21
+  - first:
+      213: -3677228881692808482
+    second: yellowSheet_22
+  - first:
+      213: 3444486134680340740
+    second: yellowSheet_23
+  - first:
+      213: 4538193999484907154
+    second: yellowSheet_24
+  - first:
+      213: -2478644967205743388
+    second: yellowSheet_25
+  - first:
+      213: 8325657503816948926
+    second: yellowSheet_26
+  - first:
+      213: 8873699473387068898
+    second: yellowSheet_27
+  - first:
+      213: -365270749182777396
+    second: yellowSheet_0
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: yellowSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 190
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2969ba46b23697b90800000000000000
+      internalID: -7243649487625021806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowSheet_1
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 207
+        width: 190
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7975046b4e11339f0800000000000000
+      internalID: -490028260445366377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowSheet_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 158
+        width: 190
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fdefb9081b951200800000000000000
+      internalID: 150196690131873270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowSheet_3
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 162
+        width: 190
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274b7d9d6faaec910800000000000000
+      internalID: 1859611673344062578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowSheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 109
+        width: 190
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c1652d06cc58d20800000000000000
+      internalID: 3280252619827059866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowSheet_5
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 114
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a11964b50e00b50800000000000000
+      internalID: 6557487740082002516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowSheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 190
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8031b6734acc58dd0800000000000000
+      internalID: -2484354613748493560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowSheet_7
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 60
+        width: 190
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3118443ff80ffeac0800000000000000
+      internalID: -3823573057561919213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowSheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11
+        width: 190
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d6f7fbf163cc0a0800000000000000
+      internalID: -6860048622407422685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowSheet_9
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 11
+        width: 190
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637324299ae314c00800000000000000
+      internalID: 883055899965536054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
